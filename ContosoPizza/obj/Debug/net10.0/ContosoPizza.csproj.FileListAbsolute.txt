@@ -31,3 +31,4 @@ C:\Users\salim\Downloads\learning.net\ContosoPizza\obj\Debug\net10.0\refint\Cont
 C:\Users\salim\Downloads\learning.net\ContosoPizza\obj\Debug\net10.0\ContosoPizza.pdb
 C:\Users\salim\Downloads\learning.net\ContosoPizza\obj\Debug\net10.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\salim\Downloads\learning.net\ContosoPizza\obj\Debug\net10.0\ref\ContosoPizza.dll
+C:\Users\salim\Downloads\learning.net\ContosoPizza\obj\Debug\net10.0\ContosoPizza.sourcelink.json
